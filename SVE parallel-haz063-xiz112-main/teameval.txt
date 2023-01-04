@@ -1,0 +1,63 @@
+                    CSE 260, Parallel Computation
+                            (Fall 2022)
+           Department of Computer Science and Engineering 	
+                 University of California, San Diego 	
+
+
+		Team Self Evaluation Form, Assignment #1
+
+Each team must submit one copy of this self evaluation form. 
+The members of each team should discuss how they
+worked together and what to write for the evaluation.
+If you worked alone leave column B blank
+
+(1) List the names of your team members:
+
+A: Xiaofeng Zhao
+
+ 
+B: Haiyu Zhang
+
+ 
+ 
+(2) Estimate how much time each team member devoted to this project, in HOURS.
+
+  	                           A 	          B
+meetings 	  	           20	           20	
+coding 	  	           12             14     
+writeup 	  	           4	            8 
+planning (alone) 	            2	            2	 
+total (including meetings)    38           38	  	  	 
+
+
+(3) Discuss the following.
+(a) If you worked in a team, what were the major responsibilities
+    of each team member?
+     A: Code main programme(first version packA, packB and Kernel)
+         Answer questions Q2b,Q2c,Q2e in report template
+     B: optimize the microkernel to reach 12.76
+     	Test the program on different sizes of data
+         Collect data and make plot
+         Answer rest questions in report template
+         Wake up (physically) A every day  
+(b) Did you complete the assignment?
+      Yes. 
+(c) What were your major strengths and weaknesses in doing this
+    assignment (individually or in a team)?
+    If in a team, also discuss how your team worked together.
+     Our team don't have a good architecture background. It took us a lot effort to get familiar with the 
+     mechanism of caches, register etc..
+     The good thing is that we both are super devoted to the assignment. We start a little bit later becasue
+     A enrolled this course on the enrollment deadline. In the last 3 days, we almost use every bit of our time
+     to push forward our project. 
+(d) What  lessons did you learn from these events.
+      Checkout the prerequist(should take CSE240A before) before enrollment!
+      If possible, teammates should have different talents.
+(e) If in a team, whether and how you plan to change the way
+    your work together .
+      Discussion before coding!
+(f) Anything else that comes to mind.
+ N/A
+(g) What suggestions do you have to improve this assignment?
+ Instructions can be more detailed and organized.
+Survey like this can be google form. Writing a plain text 
